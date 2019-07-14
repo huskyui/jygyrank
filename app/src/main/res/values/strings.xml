@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">菁英公寓排号</string>
+    <string name="id_card">请输入身份证号码</string>
+    <string name="get_rank">获取排名</string>
+</resources>
